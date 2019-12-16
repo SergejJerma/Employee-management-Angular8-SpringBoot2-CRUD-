@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'employee-system-client';
+  title = 'Employee system (Angular8 + Spring Boot2)';
 }
